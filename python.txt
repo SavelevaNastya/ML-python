@@ -1,0 +1,6 @@
+https://shultais.education/blog/python-f-strings   ФОРМАТИРОВАНИЕ СТРОК. F-СТРОКИ
+
+https://scikit-learn.org/stable/modules/model_evaluation.html#accuracy-score 
+
+https://neurohive.io/ru/osnovy-data-science/glubokaya-svertochnaja-nejronnaja-set/  stread
+
